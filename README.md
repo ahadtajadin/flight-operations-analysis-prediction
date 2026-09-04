@@ -56,7 +56,7 @@ The test accuracy for each model was:
 
 | Model               | Accuracy |
 
-| Logistic Regression | 58.25% |
+| Logistic Regression | 59.04% |
 | Decision Tree       | 82.24% |
 
 At first, the Decision Tree looked much better because it had a higher accuracy.
